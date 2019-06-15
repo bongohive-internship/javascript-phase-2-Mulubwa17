@@ -6,5 +6,5 @@ function tellFortune(jobTitle, geolocation, partner, numKids) {
 }
 
 tellFortune('web developer', 'Lusaka', 'Jemimah', 5);
-tellFortune('actor', 'new york', 'mbumbu', 3);
+tellFortune('actor', 'new york', 'Grace', 3);
 tellFortune('engineer', 'Tokyo', 'Stella', 2);
