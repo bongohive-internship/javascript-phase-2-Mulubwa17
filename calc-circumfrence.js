@@ -1,4 +1,4 @@
-// calcCircumfrence function should be here
+// calcCircumference function should be here
 function circle(radius) {
     // circumference method
     this.circumference = function() {
